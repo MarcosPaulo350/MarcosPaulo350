@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wwww.google.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-paulo-de-oliveira-626518118/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosPaulo350&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-oa5gx0u5c-marcospaulo350s-projects.vercel.app/api?username=MarcosPaulo350&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Tecnologias que utilizo no dia a dia
 
